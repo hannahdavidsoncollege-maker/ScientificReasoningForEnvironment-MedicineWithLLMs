@@ -1,0 +1,100 @@
+Atherosclerosis implies increased risk of heart attack.
+High blood pressure implies increased risk of stroke.
+Insulin resistance implies increased risk of type 2 diabetes.
+Chronic inflammation implies increased risk of autoimmune diseases.
+Smoking implies increased risk of lung cancer.
+Obesity implies an increased risk of metabolic syndrome.
+Uncontrolled diabetes implies increased risk of neuropathy.
+Chronic liver disease implies increased risk of hepatic encephalopathy.
+Human papillomavirus (HPV) infection implies increased risk of cervical cancer.
+Aplastic anemia implies bone marrow failure.
+Iron deficiency implies anemia.
+Vitamin B12 deficiency implies megaloblastic anemia.
+Vitamin D deficiency implies rickets in children.
+Chronic obstructive pulmonary disease (COPD) implies irreversible lung damage.
+Aneurysm implies increased risk of rupture and hemorrhage.
+Osteoporosis implies increased risk of bone fractures.
+Glaucoma implies optic nerve damage.
+Cataracts implies clouding of the eye's lens.
+Alzheimer's disease implies progressive memory loss.
+Parkinson's disease implies a decline in motor function.
+Multiple sclerosis implies demyelination of nerve fibers.
+Deep vein thrombosis (DVT) implies increased risk of pulmonary embolism.
+Gout implies high levels of uric acid.
+Crohn's disease implies chronic intestinal inflammation.
+Ulcerative colitis implies inflammation of the colon.
+Endometriosis implies the growth of uterine tissue outside the uterus.
+Hypothyroidism implies a low-functioning thyroid gland.
+Hyperthyroidism implies an overactive thyroid gland.
+Cirrhosis implies scarring of the liver.
+Kidney stones implies severe pain and urinary blockage.
+Psoriasis implies an overproduction of skin cells.
+Eczema implies itchy and inflamed skin.
+Measles implies a red, blotchy skin rash.
+Mumps implies swelling of the salivary glands.
+Rubella implies a mild skin rash and fever.
+Varicella (chickenpox) implies an itchy, blister-like rash.
+Influenza implies fever, cough, and body aches.
+Pneumonia implies lung infection and inflammation.
+Tuberculosis implies a bacterial infection of the lungs.
+Meningitis implies inflammation of the meninges.
+Septicemia implies blood poisoning.
+Tetanus implies muscle spasms.
+Rabies implies a viral infection of the nervous system.
+Poliomyelitis implies paralysis.
+Dengue fever implies a high fever and joint pain.
+Malaria implies fever and chills.
+Lyme disease implies a tick-borne bacterial infection.
+Salmonella infection implies fever, diarrhea, and abdominal cramps.
+Botulism implies muscle weakness and paralysis.
+Cholera implies severe watery diarrhea.
+Hepatitis A implies liver inflammation.
+Hepatitis B implies chronic liver infection.
+Hepatitis C implies a long-term liver infection.
+HIV implies a compromised immune system.
+AIDS implies a severe stage of HIV infection.
+Anaphylaxis implies a severe allergic reaction.
+Celiac disease implies an intolerance to gluten.
+Lactose intolerance implies difficulty digesting dairy products.
+Chronic kidney disease implies a gradual loss of kidney function.
+Dialysis implies kidney failure.
+Emphysema implies damage to the air sacs in the lungs.
+Bronchitis implies inflammation of the bronchial tubes.
+Asthma implies narrowed airways and difficulty breathing.
+Sleep apnea implies pauses in breathing during sleep.
+Narcolepsy implies sudden episodes of sleep.
+Epilepsy implies recurrent seizures.
+Migraine implies severe, throbbing headaches.
+Stroke implies a disruption of blood flow to the brain.
+Hemorrhagic stroke implies bleeding in the brain.
+Ischemic stroke implies a blood clot blocking a brain artery.
+Atrial fibrillation implies an irregular and rapid heart rate.
+Cardiac arrest implies the heart suddenly stops beating.
+Myocardial infarction implies a heart attack.
+Congestive heart failure implies the heart's inability to pump blood effectively.
+Angina implies chest pain due to reduced blood flow to the heart.
+Anemia implies a low red blood cell count.
+Leukemia implies a cancer of the blood and bone marrow.
+Lymphoma implies a cancer of the lymphatic system.
+Carcinoma implies a cancer of the epithelial cells.
+Sarcoma implies a cancer of the connective tissue.
+Melanoma implies a cancer of the skin's pigment cells.
+Sepsis implies the body's overwhelming response to infection.
+Shock implies a life-threatening drop in blood pressure.
+Edema implies fluid retention in body tissues.
+Appendicitis implies inflammation of the appendix.
+Pancreatitis implies inflammation of the pancreas.
+Gastritis implies inflammation of the stomach lining.
+Irritable bowel syndrome (IBS) implies abdominal pain and changes in bowel habits.
+Hernia implies an organ pushing through a weak spot in a muscle or tissue.
+Sciatica implies nerve pain in the leg.
+Carpal tunnel syndrome implies nerve compression in the wrist.
+Bursitis implies inflammation of the bursae.
+Tendinitis implies inflammation of a tendon.
+Sprain implies a stretched or torn ligament.
+Strain implies a stretched or torn muscle or tendon.
+Concussion implies a mild traumatic brain injury.
+Traumatic brain injury (TBI) implies brain damage from an external force.
+Post-traumatic stress disorder (PTSD) implies a mental health condition triggered by a traumatic event.
+Schizophrenia implies a mental disorder characterized by psychosis.
+Bipolar disorder implies extreme mood swings.
